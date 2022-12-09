@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.img-meme{
+  width: 25%;
+  height: 25% ;
+  left: -25px;
+  margin-top: 5px;
+
+}
+.frase-uno{
+  position: absolute;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 50px;
+  font-size: 20px;
+  color:  white;
+  font-weight: bold;
+  width: 100%;
+  left: 0%;
+}
+.frase-dos{
+  position: absolute;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 288px;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  width: 100%;
+  left: 0%;
+}
+.export{
+  margin-top: 10px;
+}
